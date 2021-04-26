@@ -73,3 +73,13 @@ body{
 .row{
   text-align: center;
 }
+.gform{
+  color: #f5cb5c;
+  text-align: center;
+  margin-top: 70px;
+  
+}
+.gform a{
+  color: #f5cb5c;
+  font-style: italic;
+}
