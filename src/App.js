@@ -14,6 +14,10 @@ function App() {
         <a className="btn btn-outline-light" href="#ambulance">Ambulances</a>
         <a className="btn btn-outline-light" href="#food">Food Source</a>
     </div>
+    <div className="gform">
+      <h4 >If you did not find the required resource, we will put up a tweet on your behalf.</h4>
+      <h4> Fill in the required details <a href="https://forms.gle/QGE4Szfje3K9nY9o6">here</a></h4>
+    </div>
     <section id="medicine" className="comodity">
         <h1> Medicines Availability.</h1>
         <Location />
